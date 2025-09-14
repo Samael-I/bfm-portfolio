@@ -54,7 +54,6 @@ export const experience = [
     bullets: [
       "Delivered full‑stack System (React/Node/MongoDB)",
       "Skilled in gathering requirements, planning, and execution",
-      "Set up CI and preview deploys for faster feedback",
       "IT support hardware and software",
     ],
   },
