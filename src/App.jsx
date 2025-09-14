@@ -305,6 +305,7 @@ I’m a full-stack developer who designs and builds end-to-end web applications.
         <ul className="mt-2 list-inside list-disc space-y-1.5">
           <li>CRUD operations</li>
           <li>REST API</li>
+          <li>Web Socket</li>
           <li>Maximizing AI Tools</li>
           <li>Tech Support</li>
         </ul>
